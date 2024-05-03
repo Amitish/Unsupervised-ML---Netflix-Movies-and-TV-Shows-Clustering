@@ -1,3 +1,6 @@
+![image](https://github.com/Amitish/Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/58432032/a59ff615-882a-4f0e-a8f8-dbe9700b37f4)
+
+
 # Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering
 Unsupervised ML - Netflix Movies and TV Shows Clustering
 
